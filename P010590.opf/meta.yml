@@ -4,4 +4,84 @@ source_metadata:
   id: bdr:W9209
   title: མཁའ་འགྲོ་གསང་བ་ཡེ་ཤེས་ཀྱི་ཆོས་སྐོར
   author: ''
-  volumes: {}
+  volumes:
+    ff3e7bc95a0f408b81f1b5a7eaac6817:
+      image_group_id: I3083
+      title: ''
+      volume_number: 1
+      total_pages: 740
+    82f899a08ea64cb584f0ee1deb4a545a:
+      image_group_id: I3084
+      title: ''
+      volume_number: 2
+      total_pages: 652
+    dd8555f4182e44ef819810f3f16b3d4c:
+      image_group_id: I3085
+      title: ''
+      volume_number: 3
+      total_pages: 602
+    41b8e86f7ec240f8b6d36ac087ac4a15:
+      image_group_id: I3086
+      title: ''
+      volume_number: 4
+      total_pages: 524
+    5d1b3eac69cf4ae2b36b32ec5621dc00:
+      image_group_id: I3087
+      title: ''
+      volume_number: 5
+      total_pages: 526
+    3afbfe1651c54f7593fc694b7df248ac:
+      image_group_id: I3088
+      title: ''
+      volume_number: 6
+      total_pages: 888
+    50d236eb613e484d89be50e426995b55:
+      image_group_id: I3089
+      title: ''
+      volume_number: 7
+      total_pages: 526
+    17cbe896720c4dc0b8cfc06fba4f626b:
+      image_group_id: I3090
+      title: ''
+      volume_number: 8
+      total_pages: 584
+    f2dba02e6fe04ca296219304e7fb7b1a:
+      image_group_id: I3091
+      title: ''
+      volume_number: 9
+      total_pages: 508
+    53a3824c30354d29b1efa30e578a3658:
+      image_group_id: I3092
+      title: ''
+      volume_number: 10
+      total_pages: 506
+    c192956c5aeb430ba47b6e1698f6f10e:
+      image_group_id: I3093
+      title: ''
+      volume_number: 11
+      total_pages: 486
+    d7600f3634eb45a3a115780a9d4ed09e:
+      image_group_id: I3094
+      title: ''
+      volume_number: 12
+      total_pages: 536
+    0e94a8de167d4c3bae1cb2334df4e7ca:
+      image_group_id: I3095
+      title: ''
+      volume_number: 13
+      total_pages: 566
+    e897cc722ec648f39276fb73ebd7d26b:
+      image_group_id: I3096
+      title: ''
+      volume_number: 14
+      total_pages: 444
+    b0286c38f0a94892a57ee3ef75ab904f:
+      image_group_id: I3097
+      title: ''
+      volume_number: 15
+      total_pages: 412
+    e64ffe8807d546118c09be7fccbad803:
+      image_group_id: I3098
+      title: ''
+      volume_number: 16
+      total_pages: 448
