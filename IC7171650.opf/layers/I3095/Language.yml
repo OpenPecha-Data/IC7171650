@@ -1,0 +1,194 @@
+id: e59849fa802c45e796b1c516e0629fb2
+annotation_type: Language
+revision: '00001'
+annotations:
+  c1938f44687c486e91c0a6bc99bac09c:
+    span:
+      start: 37
+      end: 162
+    language: en
+  b3fa42e7281b4f2eb19dcb4bc259a978:
+    span:
+      start: 189
+      end: 228
+    language: en
+  94d9768f80c342f79cddd17fb916f457:
+    span:
+      start: 253
+      end: 1523
+    language: en
+  76478529ff1b4b47b35daedffe6fca64:
+    span:
+      start: 1589
+      end: 2154
+    language: en
+  d636e9b94d694ba4a72787401405bc53:
+    span:
+      start: 2175
+      end: 2272
+    language: en
+  5def4ed718b1407eb6959ffc8f788a74:
+    span:
+      start: 2398
+      end: 2474
+    language: en
+  a2aa2b8a4d7442f38e739404301a8c66:
+    span:
+      start: 31015
+      end: 31115
+    language: en
+  1221de538cee4f7f8908bab03decf60d:
+    span:
+      start: 38305
+      end: 38428
+    language: en
+  1452a9d578454a66a0281e85098a2070:
+    span:
+      start: 72678
+      end: 72784
+    language: en
+  bc8d50920a4a480cbd67ac82ca619665:
+    span:
+      start: 83593
+      end: 83691
+    language: en
+  ebbeea9660e44c09adef8bba7eb36b41:
+    span:
+      start: 86994
+      end: 87017
+    language: en
+  0fc916f849c94c6da29de670ef1542f9:
+    span:
+      start: 87330
+      end: 87421
+    language: en
+  9bc644a3e20c4ab4b17fd1fef5a43e2b:
+    span:
+      start: 92738
+      end: 92767
+    language: en
+  3751091ebe4d4beb8478142a10c57f84:
+    span:
+      start: 92838
+      end: 92889
+    language: en
+  6b75216013db463ab8f42d6b92719451:
+    span:
+      start: 102569
+      end: 102690
+    language: en
+  f8e36757458b4e3e8c5ab5bb6102b396:
+    span:
+      start: 103696
+      end: 103799
+    language: en
+  1228fe672c1045d18315c339888c774f:
+    span:
+      start: 111525
+      end: 111622
+    language: en
+  a93712cf54274c889a77c182c4212ec5:
+    span:
+      start: 116310
+      end: 116339
+    language: en
+  cb916494c6044e0983556a736d15a277:
+    span:
+      start: 120427
+      end: 120524
+    language: en
+  fb72d0de7b7f4e7d931755087ee4817d:
+    span:
+      start: 125072
+      end: 125178
+    language: en
+  dd280ff5d84441e29516caabd34df9ac:
+    span:
+      start: 126138
+      end: 126236
+    language: en
+  88f02283566f465d88403e21134b658b:
+    span:
+      start: 127230
+      end: 127342
+    language: en
+  6313edc31a4c412a92b4d5ccf52c890f:
+    span:
+      start: 129881
+      end: 129974
+    language: en
+  f4a89539b8d24e0bac161f7ca7b26982:
+    span:
+      start: 132806
+      end: 132885
+    language: en
+  d930a6dcd1044fea9f725d32640e9662:
+    span:
+      start: 132993
+      end: 133041
+    language: en
+  58e3a125488e4b859487c911719a8da7:
+    span:
+      start: 141316
+      end: 141405
+    language: en
+  9cc62b21679c4996849fb1ed09829bf1:
+    span:
+      start: 162909
+      end: 163006
+    language: en
+  25ad91d0084041c9af35d92a538115de:
+    span:
+      start: 163709
+      end: 163916
+    language: en
+  8b699e8edc794b98aae95adb6fc72c5a:
+    span:
+      start: 180778
+      end: 180871
+    language: en
+  275accd32b62445188af5da193176497:
+    span:
+      start: 192840
+      end: 192939
+    language: en
+  296e359847bd4675a8365b227218165b:
+    span:
+      start: 197312
+      end: 197394
+    language: en
+  69fff5dd01c6408c86e7230a225cc26c:
+    span:
+      start: 224341
+      end: 224432
+    language: en
+  b5d94eeaa6e04138ac0aba7b55b7473f:
+    span:
+      start: 231587
+      end: 231684
+    language: en
+  f79e875ffa124afb8c555b46fe32390d:
+    span:
+      start: 241963
+      end: 242060
+    language: en
+  859fdcd9229a4124ac24791c13efc1eb:
+    span:
+      start: 249407
+      end: 249502
+    language: en
+  46ad194d311549488648cce8ee56c1c5:
+    span:
+      start: 249604
+      end: 249692
+    language: en
+  47ad58707db74ff2abd782cf6188994d:
+    span:
+      start: 250278
+      end: 250367
+    language: en
+  5da1d7f8c68742239161b0df9a724358:
+    span:
+      start: 268111
+      end: 268202
+    language: en
